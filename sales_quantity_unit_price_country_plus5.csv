@@ -1,0 +1,11 @@
+Quantity,Unit Price,Country,Product,Order ID,Order Date,Category,Total Sales
+120,15.5,India,Notebook,ORD1001,2026-09-01,Stationery,1860.0
+75,22.0,USA,Headphones,ORD1002,2026-09-02,Electronics,1650.0
+200,8.75,UK,Pen Set,ORD1003,2026-09-03,Stationery,1750.0
+45,45.0,Canada,Backpack,ORD1004,2026-09-04,Bags,2025.0
+160,12.25,Australia,Water Bottle,ORD1005,2026-09-05,Home & Kitchen,1960.0
+90,30.0,Germany,Keyboard,ORD1006,2026-09-06,Electronics,2700.0
+110,18.5,India,Mouse,ORD1007,2026-09-07,Electronics,2035.0
+60,55.0,France,Desk Lamp,ORD1008,2026-09-08,Home & Kitchen,3300.0
+250,6.4,Japan,USB Cable,ORD1009,2026-09-09,Electronics,1600.0
+35,72.0,Singapore,Monitor Stand,ORD1010,2026-09-10,Home & Kitchen,2520.0
